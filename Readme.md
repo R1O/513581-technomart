@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Денис Мельницкий](https://up.htmlacademy.ru/htmlcss/19/user/513581).
-* Наставник: [Филипп Шамсиев](https://htmlacademy.ru/profile/toolx).
+* Наставник: [Филипп Шамсиев](https://up.htmlacademy.ru/htmlcss/70260/user/513581).
 
 ---
 
